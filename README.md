@@ -1,6 +1,6 @@
 # Fiona Hanura — Enterprise Innovation Portfolio
 
-A responsive, accessible one-page portfolio tailored to demonstrate **ICT service delivery, business analysis, capacity building and practical digital innovation**. Designed for a UNICEF Innovation Officer (Level 2) application while remaining an independent professional website. It does not imply UNICEF affiliation.
+A responsive, accessible one-page portfolio tailored to demonstrate **ICT service delivery, business analysis, capacity building and practical digital innovation**. 
 
 ## Design system
 
@@ -54,4 +54,4 @@ Double-click `index.html` in a browser. To test via a local server, run `python 
 
 ## ATS note
 
-The website is a supplementary portfolio, not an ATS substitute. Upload `documents/Fiona_Hanura_UNICEF_Innovation_Officer_ATS.docx` or its PDF equivalent to UNICEF's official application system if the platform accepts those formats. Upload the dedicated CV separately; **do not upload the entire ZIP as a CV**. The CV avoids tables, text boxes, columns and graphical skills ratings for more reliable extraction.
+The website is a supplementary portfolio, not an ATS substitute. .
